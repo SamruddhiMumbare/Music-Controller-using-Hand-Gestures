@@ -2,16 +2,16 @@
 **Using Conda: **
 conda create -n my-env
 conda activate my-env
-# If you want to install from conda-forge
+// If you want to install from conda-forge
 conda config --env --add channels conda-forge
-# The actual install command
+// The actual install command
 conda install numpy
 
 **Using PiP:**
 pip install numpy
 
 **Install CV2** 
-# Make sure you are using latest version of pip 
+// Make sure you are using latest version of pip 
 
 Option 1 - Main modules package: pip install opencv-python
 Option 2 - Full package (contains both main modules and contrib/extra modules): pip install opencv-contrib-python (check contrib/extra modules listing from OpenCV documentation)
