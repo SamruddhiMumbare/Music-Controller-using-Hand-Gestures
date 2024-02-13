@@ -1,5 +1,5 @@
 **Install Numpy->**
-**Using Conda: **
+**Using Conda:**
 conda create -n my-env
 conda activate my-env
 // If you want to install from conda-forge
