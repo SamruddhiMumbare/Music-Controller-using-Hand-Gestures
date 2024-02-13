@@ -2,13 +2,10 @@
 **Using Conda:**
 conda create -n my-env.
 conda activate my-env.
-// If you want to install from conda-forge.
-conda config --env --add channels conda-forge.
-// The actual install command.
-conda install numpy.
+If you want to install from conda-forge --> conda config --env --add channels conda-forge.
+The actual install command.--> conda install numpy.
 
-**Using PiP:**
-pip install numpy.
+**Using PiP:**--> pip install numpy.
 
 **Install CV2** 
 // Make sure you are using latest version of pip .
